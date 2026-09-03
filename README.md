@@ -5,7 +5,7 @@ This directory contains sample code for running a flask web app.
 When submitting your assignment, you will commit the newly-created Dockerfile and .dockerignore file along with a completed `docker run` command in this README. 
 
 Enter your `docker run` command below:
-
+docker run -p 5001:5001 python-docker
 ```bash
 
 ```
