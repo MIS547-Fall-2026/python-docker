@@ -7,7 +7,7 @@ When submitting your assignment, you will commit the newly-created Dockerfile an
 Enter your `docker run` command below:
 
 ```bash
-
+# docker run -p 5001:5000 python-docker
 ```
 
 
